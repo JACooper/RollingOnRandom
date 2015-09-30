@@ -5,6 +5,9 @@ A project made for an interactive media class. Creates a randomized infinite 2D 
 NOTE: This program was developed in Processing, a specialized Java-based development tool, and requires it to run. You can download Processing for free here: https://processing.org/download/
 (This project was initially developed for Processing 2, but has been updated to work with the latest version, Processing 3.)
 
+Also, please note that Processing requires project folders to have the same name as the main class; if you wish to run this, please ensure the containing folder is named "RollingOnRandom" prior to opening any files.
+
+
 User Functionality: 
 	-	User functionality is limited to opening and closing the program; the program is self-contained
 
